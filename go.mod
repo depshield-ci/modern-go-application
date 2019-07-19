@@ -13,7 +13,7 @@ require (
 	github.com/ThreeDotsLabs/watermill v0.4.0
 	github.com/cloudflare/tableflip v1.0.0
 	github.com/go-kit/kit v0.9.0
-	github.com/go-sql-driver/mysql v1.4.1
+	github.com/go-sql-driver/mysql v1.4.0
 	github.com/golang/protobuf v1.3.1
 	github.com/gomodule/redigo v2.0.0+incompatible
 	github.com/goph/idgen v0.3.0
